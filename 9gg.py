@@ -68,11 +68,6 @@ def change(num):
             print '*****************'
             continue
 
-        '''
-        elif item == num * num:
-            list[row_pos][colomn_pos] = item
-            print 'all numbers are filled'
-        '''    
     print 'list is: \n', list
 
 if __name__ == '__main__':
