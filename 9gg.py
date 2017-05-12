@@ -33,13 +33,8 @@ def change(num):
             item = item + 1
             
             row_pos = row_pos - 1
-            colomn_pos = colomn_pos + 1
-            
-            '''
-            list[row_pos][colomn_pos] = item
-            item = item + 1
-            print '2 has been filled , now num to be filled is: ', item            
-            '''            
+            colomn_pos = colomn_pos + 1      
+  
             
         elif item > 1 and item < num*num+1:
             print 'current item is: ', item
