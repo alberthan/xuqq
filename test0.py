@@ -18,3 +18,4 @@ print "This is the 2nd display:"
 print "My name is Mary Xu\n 3*8 = 24"
 
 commit1 on master branch.
+commit2 on master branch.
